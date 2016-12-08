@@ -1,0 +1,10 @@
+name: DisableFrostWalker
+version: 1.0.0
+main: com.github.shin19.DisableFrostWalker
+author: shin19
+description: Disable FrostWalker enchantment
+commands:
+  disablefrostwalker:
+    description: DisableFrostWalker config reload command
+    usage: /<command> reload
+    aliases: dfw

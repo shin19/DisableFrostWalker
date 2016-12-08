@@ -1,0 +1,3 @@
+# Enable FrostWalker world (Regular expression)
+# default: ["world"]
+enableWorlds: ["world"]
